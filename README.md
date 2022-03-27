@@ -27,7 +27,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?logo=mysql&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?logo=amazon-dynamodb&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?logo=github&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Lua-0D1117?logo=lua&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Express.js-0D1117?logo=express&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-0D1117?logo=bootstrap&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Material--UI-0D1117?logo=materialui&logoColor=F0DB4F"></a>
