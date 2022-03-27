@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F0DB4F&size=29&multiline=true&width=700&lines=Welcome+To+Kiro's+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F0DB4F&size=29&multiline=true&width=700&lines=Welcome+To+Ayoub's+GitHub+Profile)](https://git.io/typing-svg)
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://cdn4.iconfinder.com/data/icons/male-occupation-avatar-1/64/Programmer-Coding-Avatar-Occupation-Man-512.png" /></a>
 ## Hi there I'm Ayoub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
@@ -11,8 +11,8 @@
 
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="mailto:sbaofu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-<a href="https://www.instagram.com/therealsbaofu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a> 
+<a href="mailto:ayoubbenlarbi22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
+<a href="https://www.instagram.com/ayoubbenlarbi/?hl=fr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a> 
 
 ## Languages and Tools: <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
 
