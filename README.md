@@ -3,7 +3,7 @@
 
 <a href="#"><img width="28%" height="auto" align="right" src="https://cdn4.iconfinder.com/data/icons/male-occupation-avatar-1/64/Programmer-Coding-Avatar-Occupation-Man-512.png" /></a>
 ## Hi there I'm Ayoub <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-> **"Code teaches you how to face really big problems" jack dorsey .”**
+> **"Code teaches you how to face really big problems" .**
 
 # I'm a Tech Enthusiast ! </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="30px">
 
